@@ -1,0 +1,18 @@
+# All Folder
+/__pycache__
+/.idea
+/UserData
+/ExampleResult
+
+# File type
+*.ipynb
+*.key
+*.pdf
+*.log
+*.xlsx
+
+# Special File
+Test.py
+request
+TestModel.py
+temp

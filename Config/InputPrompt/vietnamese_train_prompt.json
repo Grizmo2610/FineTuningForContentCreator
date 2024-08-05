@@ -1,0 +1,6 @@
+{
+    "prompt":"Hãy cho tôi biết đây là video gì? (KHÔNG VIẾT THÊM CÁC THÔNG TIN KHÁC)",
+    "title":"Hãy viết cho tôi Một tiêu đề ngắn gọn duy nhất cho kịch bản sau (KHÔNG VIẾT THÊM CÁC THÔNG TIN KHÁC)",
+    "description": "Hãy tóm tắt và mô tả lại những gì có trong kịch bản sau (KHÔNG VIẾT THÊM CÁC THÔNG TIN KHÁC)",
+    "content":"Hãy cho tôi khung bài, Khung Kịch bản Mẫu (Có mở đầu, nội dung, kết thúc, kết luận), Hãy viết thật ngắn gọn và gọi các nhân vật là A, B, C... (KHÔNG VIẾT THÊM CÁC THÔNG TIN KHÁC)"
+}

@@ -1,0 +1,6 @@
+{
+    "prompt": "Tell me what this video is about? (DO NOT INCLUDE ANY OTHER INFORMATION)",
+    "title": "Write a single concise title for the following script (DO NOT INCLUDE ANY OTHER INFORMATION)",
+    "description": "Summarize and describe what is in the following script (DO NOT INCLUDE ANY OTHER INFORMATION)",
+    "content": "Give me the outline, Script Framework (Including Introduction, Content, Conclusion), Be concise and refer to the characters as A, B, C... (DO NOT INCLUDE ANY OTHER INFORMATION)"
+}
